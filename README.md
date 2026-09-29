@@ -16,9 +16,10 @@ Atualmente atuo na área de operações logísticas (Grupo EcoRodovias), onde ap
 ---
 
 ### Você também me encontra em:
-&nbsp;<a href="[INSERIR_SEU_LINK_DO_LINKEDIN_AQUI](https://www.linkedin.com/in/welingtonfelix23/)">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
+
+<a href="https://www.linkedin.com/in/welingtonfelix23" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Welington"/>
+</a>
 
 ---
 
