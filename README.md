@@ -25,9 +25,7 @@ Atualmente atuo na área de operações logísticas (Grupo EcoRodovias), onde ap
 
 ### 🚀 Projetos em Destaque
 
-- <a href="[INSERIR_LINK_DO_REPOSITORIO_FLAMENGO](https://github.com/welingtonfelix/Flamengo-Libertadores-2025/tree/main)">
-    Projeto: Flamengo na Libertadores 2025 (Análise de Performance)
-  </a>
+- [Projeto: Flamengo na Libertadores 2025 (Análise de Performance)](https://github.com/welingtonfelix/Flamengo-Libertadores-2025)
   - *Um projeto de Data Analytics ponta a ponta: ETL em Power Query, modelagem relacional em MySQL, UI/UX no Canva e Dashboard interativo no Power BI.*
 
 ---
